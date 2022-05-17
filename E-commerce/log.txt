@@ -1,0 +1,310 @@
+[17-05-2022 18:24:37] connect to database
+[17-05-2022 18:24:37] select all data from user
+[17-05-2022 18:24:37] show all items
+[17-05-2022 18:24:37] show all items
+[17-05-2022 18:24:37] update item Back bag
+[17-05-2022 18:24:37] delete item Tea
+[17-05-2022 18:24:37] show all items
+[17-05-2022 18:29:05] connect to database
+[17-05-2022 18:29:05] select all data from user
+[17-05-2022 18:29:05] show items from item table
+[17-05-2022 18:29:05] delete item Glass
+[17-05-2022 18:29:05] show items from item table
+[17-05-2022 18:30:01] connect to database
+[17-05-2022 18:30:01] select all data from user
+[17-05-2022 18:30:01] show items from item table
+[17-05-2022 18:30:01] delete item Samsong mobile
+[17-05-2022 18:30:01] show items from item table
+[17-05-2022 18:30:01] show items from item table
+[17-05-2022 18:30:01] show items from item table
+[17-05-2022 18:39:51] connect to database
+[17-05-2022 18:39:51] select all data from user
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:39:51] show items from item table
+[17-05-2022 18:43:06] connect to database
+[17-05-2022 18:43:06] select all data from user
+[17-05-2022 18:43:06] show items from item table
+[17-05-2022 18:43:38] connect to database
+[17-05-2022 18:43:38] select all data from user
+[17-05-2022 18:43:38] show items from item table
+[17-05-2022 18:44:20] connect to database
+[17-05-2022 18:44:20] select all data from user
+[17-05-2022 18:44:20] show items from item table
+[17-05-2022 18:44:41] connect to database
+[17-05-2022 18:44:41] select all data from user
+[17-05-2022 18:44:41] show items from item table
+[17-05-2022 18:47:27] connect to database
+[17-05-2022 18:47:27] select all data from user
+[17-05-2022 18:47:27] show items from item table
+[17-05-2022 18:48:06] connect to database
+[17-05-2022 18:48:06] select all data from user
+[17-05-2022 18:48:06] show items from item table
+[17-05-2022 18:49:02] connect to database
+[17-05-2022 18:49:02] select all data from user
+[17-05-2022 18:49:02] show items from item table
+[17-05-2022 18:50:00] connect to database
+[17-05-2022 18:50:00] select all data from user
+[17-05-2022 18:50:00] show items from item table
+[17-05-2022 19:04:40] connect to database
+[17-05-2022 19:04:40] select all data from user
+[17-05-2022 19:04:40] show items from item table
+[17-05-2022 19:04:40] show items from item table
+[17-05-2022 19:04:40] show items from item table
+[17-05-2022 19:08:12] connect to database
+[17-05-2022 19:08:12] select all data from user
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:08:12] show items from item table
+[17-05-2022 19:11:35] connect to database
+[17-05-2022 19:11:35] select all data from user
+[17-05-2022 19:11:35] show items from item table
+[17-05-2022 19:53:08] connect to database
+[17-05-2022 19:53:08] select all data from user
+[17-05-2022 19:53:08] check email: @
+[17-05-2022 19:53:08] check email: root@
+[17-05-2022 19:53:08] Insert new User root
+[17-05-2022 19:59:42] connect to database
+[17-05-2022 19:59:42] select all data from user
+[17-05-2022 20:00:37] connect to database
+[17-05-2022 20:00:37] select all data from user
+[17-05-2022 20:00:37] check username: Braa
+[17-05-2022 20:00:37] check password for username: Braa
+[17-05-2022 20:00:37] show items from item table
+[17-05-2022 20:00:37] show items from item table
+[17-05-2022 20:00:37] show items from item table
+[17-05-2022 20:09:07] connect to database
+[17-05-2022 20:09:07] select all data from user
+[17-05-2022 20:09:07] check username: Braa
+[17-05-2022 20:09:07] check password for username: Braa
+[17-05-2022 20:09:07] show items from item table
+[17-05-2022 20:09:07] show items from item table
+[17-05-2022 20:10:03] connect to database
+[17-05-2022 20:10:03] select all data from user
+[17-05-2022 20:10:03] check username: Braa
+[17-05-2022 20:10:03] check password for username: Braa
+[17-05-2022 20:10:03] show items from item table
+[17-05-2022 20:10:03] show items from item table
+[17-05-2022 20:10:03] select all data from user
+[17-05-2022 20:20:16] connect to database
+[17-05-2022 20:20:16] select all data from user
+[17-05-2022 20:20:16] check username: Braa
+[17-05-2022 20:20:16] check password for username: Braa
+[17-05-2022 20:20:16] show items from item table
+[17-05-2022 20:20:16] show items from item table
+[17-05-2022 20:20:16] show items from item table
+[17-05-2022 20:20:16] show items from item table
+[17-05-2022 20:25:52] connect to database
+[17-05-2022 20:25:52] select all data from user
+[17-05-2022 20:25:52] check username: Braa
+[17-05-2022 20:25:52] check password for username: Braa
+[17-05-2022 20:25:52] show items from item table
+[17-05-2022 20:25:52] show items from item table
+[17-05-2022 20:25:52] show items from item table
+[17-05-2022 20:25:52] show items from item table
+[17-05-2022 20:25:52] Insert item Hp laptop into user Braa card
+[17-05-2022 20:25:52] show items from item table
+[17-05-2022 20:25:52] Insert item TV into user Braa card
+[17-05-2022 20:32:23] connect to database
+[17-05-2022 20:32:23] select all data from user
+[17-05-2022 20:32:23] check username: Braa
+[17-05-2022 20:32:23] check password for username: Braa
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] Insert item Hp laptop into user Braa card
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] Insert item Hp laptop into user Braa card
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 20:32:23] show items from item table
+[17-05-2022 21:25:41] connect to database
+[17-05-2022 21:25:41] select all data from user
+[17-05-2022 21:25:41] check username: Braa
+[17-05-2022 21:25:41] check password for username: Braa
+[17-05-2022 21:25:41] show items from item table
+[17-05-2022 21:25:41] select all data from user
+[17-05-2022 21:25:41] check email: Ali@gmail.com
+[17-05-2022 21:25:41] Insert new User Ali
+[17-05-2022 21:25:41] show items from item table
+[17-05-2022 21:25:41] show items from item table
+[17-05-2022 21:25:41] show items from item table
+[17-05-2022 21:25:41] select all data from user
+[17-05-2022 21:25:41] check username: Ali
+[17-05-2022 21:25:41] check password for username: Ali
+[17-05-2022 21:25:41] check username: Ali
+[17-05-2022 21:25:41] check password for username: Ali
+[17-05-2022 21:25:41] check username: Ali
+[17-05-2022 21:25:41] check password for username: Ali
+[17-05-2022 21:31:11] connect to database
+[17-05-2022 21:31:11] select all data from user
+[17-05-2022 21:31:11] check username: Ali
+[17-05-2022 21:31:11] check password for username: Ali
+[17-05-2022 21:31:11] show items from item table
+[17-05-2022 21:31:11] select all data from user
+[17-05-2022 21:31:11] check username: Braa
+[17-05-2022 21:31:11] check password for username: Braa
+[17-05-2022 21:31:11] show items from item table
+[17-05-2022 21:33:57] connect to database
+[17-05-2022 21:33:57] select all data from user
+[17-05-2022 21:33:57] check username: Ali
+[17-05-2022 21:33:57] check password for username: Ali
+[17-05-2022 21:33:57] show items from item table
+[17-05-2022 21:36:23] connect to database
+[17-05-2022 21:36:23] select all data from user
+[17-05-2022 21:36:23] check username: Ali
+[17-05-2022 21:36:23] check password for username: Ali
+[17-05-2022 21:36:23] show items from item table
+[17-05-2022 21:36:23] select all data from user
+[17-05-2022 21:36:23] check username: Braa
+[17-05-2022 21:36:23] check password for username: Braa
+[17-05-2022 21:36:23] show items from item table
+[17-05-2022 21:41:27] connect to database
+[17-05-2022 21:41:27] select all data from user
+[17-05-2022 21:41:27] check username: Braa
+[17-05-2022 21:41:27] check password for username: Braa
+[17-05-2022 21:41:27] show items from item table
+[17-05-2022 21:46:39] connect to database
+[17-05-2022 21:46:39] select all data from user
+[17-05-2022 21:46:39] check username: Braa
+[17-05-2022 21:46:39] check password for username: Braa
+[17-05-2022 21:46:39] show items from item table
+[17-05-2022 21:49:21] connect to database
+[17-05-2022 21:49:21] select all data from user
+[17-05-2022 21:49:21] check username: Braa
+[17-05-2022 21:49:21] check password for username: Braa
+[17-05-2022 21:49:21] show items from item table
+[17-05-2022 21:50:41] connect to database
+[17-05-2022 21:50:41] select all data from user
+[17-05-2022 21:50:41] check username: Ali
+[17-05-2022 21:50:41] check password for username: Ali
+[17-05-2022 21:50:41] show items from item table
+[17-05-2022 21:58:19] connect to database
+[17-05-2022 21:58:19] select all data from user
+[17-05-2022 21:58:19] check username: Braa
+[17-05-2022 21:58:19] check password for username: Braa
+[17-05-2022 21:58:19] show items from item table
+[17-05-2022 21:58:19] show items from item table
+[17-05-2022 22:02:30] connect to database
+[17-05-2022 22:02:30] select all data from user
+[17-05-2022 22:02:30] check username: Braa
+[17-05-2022 22:02:30] check password for username: Braa
+[17-05-2022 22:02:30] show items from item table
+[17-05-2022 22:02:30] show items from item table
+[17-05-2022 22:15:19] connect to database
+[17-05-2022 22:15:19] select all data from user
+[17-05-2022 22:15:19] check username: Ali
+[17-05-2022 22:15:19] check password for username: Ali
+[17-05-2022 22:15:19] show items from item table
+[17-05-2022 22:15:19] show items from item table
+[17-05-2022 22:15:19] show items from item table
+[17-05-2022 22:15:19] show items from item table
+[17-05-2022 22:15:19] Insert item MIUI mobile into user Ali card
+[17-05-2022 22:15:19] quantity decreased by 1 for item MIUI mobile
+[17-05-2022 22:15:19] delete item MIUI mobile from user Ali card
+[17-05-2022 22:15:19] quantity increased by 1 for item MIUI mobile
+[17-05-2022 22:15:19] Insert item MIUI mobile into user Ali card
+[17-05-2022 22:15:19] quantity decreased by 1 for item MIUI mobile
+[17-05-2022 22:15:19] Insert item Hp laptop into user Ali card
+[17-05-2022 22:15:19] quantity decreased by 1 for item Hp laptop
+[17-05-2022 22:15:19] Insert item TV into user Ali card
+[17-05-2022 22:15:19] quantity decreased by 1 for item TV
+[17-05-2022 22:15:19] Insert item Nike shoes into user Ali card
+[17-05-2022 22:15:19] quantity decreased by 1 for item Nike shoes
+[17-05-2022 22:15:19] show items from item table
+[17-05-2022 22:23:18] connect to database
+[17-05-2022 22:23:18] select all data from user
+[17-05-2022 22:23:18] check username: Ali
+[17-05-2022 22:23:18] check password for username: Ali
+[17-05-2022 22:23:18] Get items from user Ali card
+[17-05-2022 22:26:17] connect to database
+[17-05-2022 22:26:17] select all data from user
+[17-05-2022 22:26:17] check username: Braa
+[17-05-2022 22:26:17] check password for username: Braa
+[17-05-2022 22:26:17] Get items from user Braa card
+[17-05-2022 22:28:59] connect to database
+[17-05-2022 22:28:59] select all data from user
+[17-05-2022 22:28:59] check username: Ali
+[17-05-2022 22:28:59] check password for username: Ali
+[17-05-2022 22:28:59] Get items from user Ali card
+[17-05-2022 22:30:38] connect to database
+[17-05-2022 22:30:38] select all data from user
+[17-05-2022 22:30:38] check username: Ali
+[17-05-2022 22:30:38] check password for username: Ali
+[17-05-2022 22:30:38] show items from item table
+[17-05-2022 22:30:38] show items from item table
+[17-05-2022 22:30:38] show items from item table
+[17-05-2022 22:30:38] show items from item table
+[17-05-2022 22:31:58] connect to database
+[17-05-2022 22:31:58] select all data from user
+[17-05-2022 22:31:58] check username: Braa
+[17-05-2022 22:31:58] check password for username: Braa
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:31:58] show items from item table
+[17-05-2022 22:38:13] connect to database
+[17-05-2022 22:38:13] select all data from user
+[17-05-2022 22:38:13] check username: Ali
+[17-05-2022 22:38:13] check password for username: Ali
+[17-05-2022 22:41:46] connect to database
+[17-05-2022 22:41:46] select all data from user
+[17-05-2022 22:41:46] check username: Ali
+[17-05-2022 22:41:46] check password for username: Ali
+[17-05-2022 22:42:26] connect to database
+[17-05-2022 22:42:26] select all data from user
+[17-05-2022 22:42:26] check username: Ali
+[17-05-2022 22:42:26] check password for username: Ali
+[17-05-2022 22:43:48] connect to database
+[17-05-2022 22:43:48] select all data from user
+[17-05-2022 22:43:48] check username: Ali
+[17-05-2022 22:43:48] check password for username: Ali
+[17-05-2022 22:43:48] show items from item table
+[17-05-2022 22:43:48] show items from item table
+[17-05-2022 22:43:48] Session finished
+[17-05-2022 23:14:23] connect to database
+[17-05-2022 23:14:23] select all data from user
+[17-05-2022 23:14:23] check username: Ali
+[17-05-2022 23:14:23] check password for username: Ali
+[17-05-2022 23:14:23] show items from item table
+[17-05-2022 23:15:34] connect to database
+[17-05-2022 23:15:34] select all data from user
+[17-05-2022 23:15:34] check username: Ali
+[17-05-2022 23:15:34] check password for username: Ali
+[17-05-2022 23:15:34] show items from item table
+[17-05-2022 23:15:34] show items from item table
+[17-05-2022 23:19:02] connect to database
+[17-05-2022 23:19:02] select all data from user
+[17-05-2022 23:19:02] check username: Braa
+[17-05-2022 23:19:02] check password for username: Braa
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] show items from item table
+[17-05-2022 23:19:02] select all data from user
+[17-05-2022 23:20:37] connect to database
+[17-05-2022 23:20:37] select all data from user
+[17-05-2022 23:20:37] check username: Braa
+[17-05-2022 23:20:37] check password for username: Braa
+[17-05-2022 23:20:37] show items from item table
+[17-05-2022 23:20:37] show items from item table
+[17-05-2022 23:20:37] show items from item table
+[17-05-2022 23:20:37] show items from item table
+[17-05-2022 23:20:37] show items from item table
+[17-05-2022 23:20:37] Session finished

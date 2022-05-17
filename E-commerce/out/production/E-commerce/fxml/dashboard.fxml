@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root fx:id="root" prefHeight="894.0" prefWidth="1214.0" stylesheets="@../style/style.css" type="AnchorPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.DashboardController">
+   <children>
+      <BorderPane layoutX="174.0" layoutY="100.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #007;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <left>
+            <VBox fx:id="leftNav" alignment="TOP_CENTER" prefHeight="678.0" prefWidth="360.0" spacing="30.0" style="-fx-background-color: #006;" BorderPane.alignment="TOP_CENTER">
+               <padding>
+                  <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+               </padding>
+               <children>
+                  <Button fx:id="showAllBtn" layoutX="53.0" layoutY="30.0" mnemonicParsing="false" onAction="#actionShowAll" prefHeight="60.0" prefWidth="275.0" text="Show All items">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="showBtn" mnemonicParsing="false" onAction="#actionShow" prefHeight="60.0" prefWidth="275.0" text="Show your items">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font></Button>
+                  <Button fx:id="addItemBtn" layoutX="14.0" layoutY="30.0" mnemonicParsing="false" onAction="#actionAddItem" prefHeight="60.0" prefWidth="275.0" text="Add Item To Store">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font></Button>
+                  <Button fx:id="cardBtn" layoutX="53.0" layoutY="100.0" mnemonicParsing="false" onAction="#actionCard" prefHeight="60.0" prefWidth="275.0" text="Your Card">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="logoutBtn" mnemonicParsing="false" onAction="#actionLogout" prefHeight="60.0" prefWidth="275.0" style="-fx-background-color: darkOrange; -fx-border-color: #282828 #444 #444 #282828; -fx-border-insets: -1; -fx-border-width: 6; -fx-background-radius: 1; -fx-border-radius: 1; -fx-text-fill: white; -fx-font-family: Droid Sans; -fx-font-size: 23; -fx-font-weight: bold;" text="Log out" textFill="RED">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="exitBtn" layoutX="53.0" layoutY="310.0" mnemonicParsing="false" onAction="#actionExit" prefHeight="60.0" prefWidth="275.0" style="-fx-background-color: red; -fx-border-color: #282828 #444 #444 #282828; -fx-border-insets: -1; -fx-border-width: 6; -fx-background-radius: 1; -fx-border-radius: 1; -fx-text-fill: white; -fx-font-family: Droid Sans; -fx-font-size: 23; -fx-font-weight: bold;" text="Exit" textFill="RED">
+                     <font>
+                        <Font name="System Bold" size="24.0" />
+                     </font>
+                  </Button>
+               </children>
+            </VBox>
+         </left>
+         <center>
+            <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="377.0" prefViewportHeight="665.0" prefViewportWidth="608.0" prefWidth="371.0" BorderPane.alignment="CENTER">
+               <content>
+                  <FlowPane fx:id="items" hgap="10.0" prefHeight="483.0" prefWidth="460.0" style="-fx-background-color: #007;" vgap="10.0" BorderPane.alignment="TOP_LEFT">
+                     <padding>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </padding>
+                  </FlowPane>
+               </content>
+            </ScrollPane>
+         </center>
+         <effect>
+            <InnerShadow height="255.0" radius="127.0" width="255.0" />
+         </effect>
+         <top>
+            <ToolBar fx:id="toolbar" nodeOrientation="LEFT_TO_RIGHT" prefHeight="58.0" prefWidth="986.0" BorderPane.alignment="CENTER_LEFT">
+               <items>
+                  <TextField fx:id="searchField" prefHeight="42.0" prefWidth="367.0" promptText="search" />
+                  <ComboBox fx:id="searchCombo" prefHeight="42.0" prefWidth="134.0" />
+                  <Button fx:id="searchBtn" mnemonicParsing="false" onAction="#actionSearch" prefHeight="42.0" prefWidth="115.0" text="search">
+                     <font>
+                        <Font name="Calibri Bold" size="24.0" />
+                     </font>
+                  </Button>
+               </items>
+               <padding>
+                  <Insets bottom="10.0" left="50.0" right="5.0" top="5.0" />
+               </padding>
+            </ToolBar>
+         </top>
+      </BorderPane>
+   </children>
+</fx:root>

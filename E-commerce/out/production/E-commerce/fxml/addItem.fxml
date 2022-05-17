@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root fx:id="addItemBox" prefHeight="560.0" prefWidth="894.0" style="-fx-background-color: #007;" type="VBox" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.AddItemController">
+   <children>
+      <GridPane alignment="CENTER" hgap="15.0" prefHeight="491.0" prefWidth="752.0" vgap="20.0">
+         <children>
+            <Label text="Quantity" textFill="WHITE" GridPane.rowIndex="1">
+               <font>
+                  <Font name="Cambria Math" size="49.0" />
+               </font>
+            </Label>
+            <Label text="Item name" textFill="WHITE">
+               <font>
+                  <Font name="Cambria" size="44.0" />
+               </font>
+            </Label>
+            <TextField fx:id="itemNameField" prefHeight="45.0" prefWidth="232.0" GridPane.columnIndex="1" />
+            <Label text="Price" textFill="WHITE" GridPane.rowIndex="2">
+               <font>
+                  <Font name="Cambria" size="44.0" />
+               </font>
+            </Label>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="3">
+               <children>
+                  <Button fx:id="btnAdd" layoutX="28.0" layoutY="30.0" mnemonicParsing="false" onAction="#actionAdd" prefHeight="67.0" prefWidth="177.0" style="-fx-background-color: #0f0;" text="Add item">
+                     <font>
+                        <Font name="Arial Black" size="24.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <Button fx:id="btnCancel" mnemonicParsing="false" onAction="#actionCancel" prefHeight="67.0" prefWidth="177.0" style="-fx-background-color: #f00;" text="Cancel" textFill="WHITE" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <font>
+                  <Font name="Arial Black" size="24.0" />
+               </font>
+            </Button>
+            <TextField fx:id="quantityField" prefHeight="45.0" prefWidth="232.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="priceField" prefHeight="45.0" prefWidth="232.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         </children>
+         <columnConstraints>
+            <ColumnConstraints halignment="LEFT" hgrow="SOMETIMES" maxWidth="364.0" minWidth="10.0" prefWidth="213.0" />
+            <ColumnConstraints fillWidth="false" halignment="LEFT" hgrow="SOMETIMES" maxWidth="622.0" minWidth="10.0" prefWidth="524.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+      </GridPane>
+   </children>
+   <padding>
+      <Insets bottom="50.0" left="50.0" right="50.0" top="50.0" />
+   </padding>
+</fx:root>

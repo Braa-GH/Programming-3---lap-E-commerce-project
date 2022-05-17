@@ -1,0 +1,83 @@
+.item{
+    -fx-background-color: #ccc;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+
+}
+
+.labelName{
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.top{
+    -fx-background-color: #aaa;
+}
+
+.editBtn{
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width:3;
+    -fx-border-radius: 50;
+    -fx-background-radius:50;
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 22;
+    -fx-text-fill: black;
+    -fx-pref-width: 130;
+    -fx-pref-height: 50;
+}
+
+.deleteBtn{
+    -fx-background-color: red;
+    -fx-border-width:2;
+    fx-border-radius: 50;
+    -fx-background-radius:50;
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 22;
+    -fx-text-fill: white;
+    -fx-pref-width: 130;
+    -fx-pref-height: 50;
+}
+
+.item{
+    -fx-background-color: gold;
+    fx-border-color: black;
+    -fx-border-width: 3;
+    -fx-padding: 10;
+    -fx-spacing: 0;
+    -fx-pref-width: 320;
+    -fx-pref-height: 245;
+}
+
+.addToCardBtn{
+    -fx-background-color: blue;
+    /*-fx-border-width:2;*/
+    /*fx-border-radius: 50;*/
+    /*-fx-background-radius:50;*/
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 22;
+    -fx-text-fill: white;
+    -fx-pref-width: 274;
+    -fx-pref-height: 45;
+}
+
+.green{
+    -fx-background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

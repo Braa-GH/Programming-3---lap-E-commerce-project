@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.LoginController">
+   <children>
+       <BorderPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="484.0" prefWidth="687.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+           <center>
+               <VBox alignment="CENTER" fillWidth="false" prefHeight="294.0" prefWidth="687.0" spacing="20.0" style="-fx-background-color: #007;" BorderPane.alignment="CENTER">
+                   <children>
+                       <Label alignment="CENTER" style="-fx-text-fill: orangered;" text="Login To System" textAlignment="CENTER" textFill="RED" textOverrun="CLIP">
+                           <font>
+                               <Font name="Book Antiqua Bold" size="43.0" />
+                           </font>
+                       </Label>
+                       <GridPane alignment="CENTER" hgap="15.0" prefHeight="147.0" prefWidth="444.0" vgap="20.0">
+                           <columnConstraints>
+                               <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                               <ColumnConstraints fillWidth="false" halignment="LEFT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                           </columnConstraints>
+                           <rowConstraints>
+                               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                           </rowConstraints>
+                           <children>
+                               <PasswordField fx:id="passField" prefHeight="26.0" prefWidth="179.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                               <Label text="Password" textFill="WHITE" GridPane.rowIndex="1">
+                                   <font>
+                                       <Font name="Cambria Math" size="30.0" />
+                                   </font>
+                               </Label>
+                               <Label text="Username" textFill="WHITE">
+                                   <font>
+                                       <Font name="Cambria" size="30.0" />
+                                   </font>
+                               </Label>
+                               <TextField fx:id="txtFieldUsername" prefHeight="31.0" prefWidth="177.0" GridPane.columnIndex="1" />
+                               <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0" GridPane.columnSpan="2" GridPane.rowIndex="2">
+                                   <padding>
+                                       <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                   </padding>
+                                   <children>
+                                       <Button fx:id="btnLogin" mnemonicParsing="false" onAction="#actionLogin" prefHeight="50.0" prefWidth="117.0" style="-fx-background-color: orangered; -fx-text-fill: white;" text="Login">
+                                           <font>
+                                               <Font name="Cooper Black" size="23.0" />
+                                           </font>
+                                           <textFill>
+                                               <RadialGradient centerX="0.5795454545454545" centerY="0.7427184466019419" cycleMethod="REFLECT" focusAngle="135.86" focusDistance="0.19512195121951215" radius="0.4878048780487805">
+                                                   <stops>
+                                                       <Stop color="BLACK" />
+                                                       <Stop color="WHITE" offset="1.0" />
+                                                   </stops>
+                                               </RadialGradient>
+                                           </textFill>
+                                           <effect>
+                                               <Bloom threshold="0.67" />
+                                           </effect>
+                                       </Button>
+                                       <Button fx:id="btnSignup" layoutX="174.0" layoutY="20.0" mnemonicParsing="false" onAction="#actionSignup" prefHeight="44.0" prefWidth="225.0" style="-fx-background-color: orangered; -fx-text-fill: white;" text="Create Account">
+                                           <effect>
+                                               <Bloom threshold="0.67" />
+                                           </effect>
+                                           <font>
+                                               <Font name="Cooper Black" size="23.0" />
+                                           </font>
+                                           <textFill>
+                                               <RadialGradient centerX="0.5795454545454545" centerY="0.7427184466019419" cycleMethod="REFLECT" focusAngle="135.86" focusDistance="0.19512195121951215" radius="0.4878048780487805">
+                                                   <stops>
+                                                       <Stop color="BLACK" />
+                                                       <Stop color="WHITE" offset="1.0" />
+                                                   </stops>
+                                               </RadialGradient>
+                                           </textFill>
+                                       </Button>
+                                   </children>
+                               </HBox>
+                           </children>
+                       </GridPane>
+                       <Label fx:id="warningLabel" textFill="RED">
+                           <font>
+                               <Font name="JetBrains Mono Bold" size="20.0" />
+                           </font>
+                           <VBox.margin>
+                               <Insets top="-10.0" />
+                           </VBox.margin>
+                       </Label>
+                   </children>
+                   <padding>
+                       <Insets bottom="50.0" left="50.0" right="50.0" top="50.0" />
+                   </padding>
+               </VBox>
+           </center>
+           <bottom>
+               <HBox alignment="CENTER" prefHeight="101.0" prefWidth="687.0" style="-fx-background-color: #006;" BorderPane.alignment="CENTER">
+                   <children>
+                       <Label text="Made with ♥ By: Eng-Braa Al-Ghussain 2022©" textFill="WHITE">
+                           <font>
+                               <Font name="Segoe UI Symbol" size="19.0" />
+                           </font>
+                       </Label>
+                   </children>
+               </HBox>
+           </bottom>
+           <effect>
+               <InnerShadow blurType="GAUSSIAN" height="255.0" radius="127.0" width="255.0" />
+           </effect>
+       </BorderPane>
+   </children>
+
+</AnchorPane>
